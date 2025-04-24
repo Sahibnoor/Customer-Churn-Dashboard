@@ -9,9 +9,9 @@ This project provides a comprehensive analysis of customer churn using Power BI,
 ## 🎯 Objective
 
 To understand:
-- Who is churning and why
-- How customer behavior, demographics, and services impact churn
-- What actions can reduce churn and improve long-term customer loyalty
+- Who is churning and why?
+- How customer behavior, demographics, and services impact churn?
+- What actions can reduce churn and improve long-term customer loyalty?
 
 ---
 
@@ -63,8 +63,8 @@ To understand:
 
 ## 📁 Files Included
 
-- `.pbix` (Power BI Dashboard file – *to be uploaded*)
-- Multiple `.png` screenshots of each dashboard tab for GitHub preview
+- `Customer Churn Analysis.pbix` (Power BI Dashboard file)
+- Multiple `.png` screenshots of each dashboard tab for GitHub preview (in the *README_assets* folder)
 - This `README.md` file for project overview
 
 ---
